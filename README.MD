@@ -1,9 +1,9 @@
 /**
  * @file server.c
- * @brief Server Application
+ * 
  *
  * This file contains the implementation of a server application.
- * It listens for incoming connections and handles client requests.
+ * It listens for incoming connections and handles client requests (only get for at the moment ).
  *
  * To run the server, follow these steps:
  * 1. Compile the code using a C compiler: `gcc server.c -o server`
